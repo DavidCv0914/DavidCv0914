@@ -18,7 +18,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40 height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40 height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40 height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40 height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40 height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40 height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40 height="40" />
